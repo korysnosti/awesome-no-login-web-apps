@@ -1,6 +1,6 @@
 # Чудові вебзастосунки (які працюють без реєстрації)
 
-### Перекладено телеграм каналом [![repo][kfg.svg]](https://t.me/+k4pQk2ssj6ViODIy) [Корисності для Ґаджетів 🇺🇦](https://t.me/+k4pQk2ssj6ViODIy)
+### Перекладено телеграм каналом: [![repo][kfg.svg]](https://t.me/+k4pQk2ssj6ViODIy) [Корисності для Ґаджетів 🇺🇦](https://t.me/+k4pQk2ssj6ViODIy)
 <br/>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
